@@ -45,11 +45,3 @@
 
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="40" alt="netlify logo"  />
 </div>
-
-###
-
-<h2>Deployed URL :</h2>
-
-###
-
-🔸*Check out My Price Card Here*👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://price-card-react-task-1.netlify.app/#)
